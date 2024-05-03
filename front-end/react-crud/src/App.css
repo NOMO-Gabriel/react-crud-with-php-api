@@ -1,0 +1,43 @@
+/* Définir les couleurs de base */
+:root {
+  --primary-color: #007bff; /* Bleu */
+  --background-color: #ffffff; /* Blanc */
+  --text-color: #000000; /* Noir */
+}
+
+/* Appliquer les couleurs aux éléments */
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+/* Appliquer les couleurs aux liens et boutons */
+a {
+  color: var(--primary-color);
+}
+
+button, .btn {
+  background-color: var(--primary-color);
+  color: var(--background-color);
+}
+
+/* Styles supplémentaires pour personnaliser les éléments */
+.App {
+  text-align: center;
+}
+
+/* Styles pour le menu de navigation */
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+nav ul li a {
+  color: var(--primary-color);
+  text-decoration: none;
+}

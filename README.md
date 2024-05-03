@@ -1,7 +1,7 @@
 
 # CRUD App avec React et PHP
 
-Bienvenue dans le projet **CRUD App** ! Cette application combine un front-end en React avec un back-end en PHP pour permettre la gestion d'utilisateurs (CRUD).
+Bienvenue dans le projet **CRUD App** ! Cette application combine un front-end en React et Bootstrap avec un back-end en PHP pour permettre la gestion d'utilisateurs (CRUD).
 
 ## Table des matières
 
